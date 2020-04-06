@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fa5e80b-59f4-4a49-9acd-7fb0b28b28b4" name="Default Changelist" comment="" />
+    <list default="true" id="2fa5e80b-59f4-4a49-9acd-7fb0b28b28b4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +36,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../simple_social_clone/simplesocial" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -40,7 +44,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="blog_site" type="Python.DjangoServer" factoryName="Django server">
@@ -79,7 +83,8 @@
       <updated>1586012480192</updated>
       <workItem from="1586012486513" duration="152000" />
       <workItem from="1586013309857" duration="9739000" />
-      <workItem from="1586064723156" duration="21400000" />
+      <workItem from="1586064723156" duration="24115000" />
+      <workItem from="1586158359270" duration="626000" />
     </task>
     <servers />
   </component>
@@ -91,14 +96,14 @@
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
     <state x="455" y="137" width="1006" height="836" key="#Inspections/0.31.1920.1049@0.31.1920.1049" timestamp="1586150796155" />
-    <state x="690" y="258" width="536" height="595" key="FileChooserDialogImpl" timestamp="1586012593148">
+    <state x="690" y="258" width="536" height="595" key="FileChooserDialogImpl" timestamp="1586158769473">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state x="690" y="258" width="536" height="595" key="FileChooserDialogImpl/0.31.1920.1049@0.31.1920.1049" timestamp="1586012593148" />
-    <state x="333" y="104" key="SettingsEditor" timestamp="1586014026019">
+    <state x="690" y="258" width="536" height="595" key="FileChooserDialogImpl/0.31.1920.1049@0.31.1920.1049" timestamp="1586158769473" />
+    <state x="333" y="104" key="SettingsEditor" timestamp="1586158759816">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
-    <state x="333" y="104" key="SettingsEditor/0.31.1920.1049@0.31.1920.1049" timestamp="1586014026019" />
+    <state x="333" y="104" key="SettingsEditor/0.31.1920.1049@0.31.1920.1049" timestamp="1586158759816" />
     <state x="1006" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1586150723645">
       <screen x="0" y="31" width="1920" height="1049" />
     </state>
